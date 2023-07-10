@@ -2,4 +2,4 @@ repositories:
   simulator/scenario_simulator:
     type: git
     url: https://github.com/robotecai/scenario_simulator_v2.git
-    version: pzyskowski/660/zmq-interface-change-impl
+    version: pzyskowski/660/zmq-interface-change-impl-AWSIM-works
